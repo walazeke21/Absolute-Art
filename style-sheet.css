@@ -1,0 +1,23 @@
+.box1{
+  filter: sepia(40%);
+  z-index: -1;
+  position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 3%;
+    width: 85%;
+    height: 650px;
+    background: none;
+    border-style: solid none solid none ;
+    border-width:70px ;
+    border-color:#00000;
+}
+
+.box2{
+ 
+  position: absolute;
+  left: 20%;
+  top: 20%;
+  margin-top: 
+    z-index:1;
+}
