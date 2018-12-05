@@ -1,38 +1,46 @@
 
-    .header {
-    padding: 80px;
-    text-align: center;
-   background-image: url("https://www.conncoll.edu/media/major-images/Art.jpg");
-    color: white;
-}
+     .title{
+      padding: 80px;
+      text-align: center;
+      background-image: url("https://www.conncoll.edu/media/major-images/Art.jpg");
+      color: white;
+      }
 
 
-.header h1 {
-    font-size: 40px;
-}
+  .title h1 {
+      font-size: 40px;
+      }
 
 
-.navbar {
-    overflow: hidden;
-    background-color: #333;
-}
+  .navbar {
+      overflow: hidden;
+      background-color: #333;
+      }
 
 
-.navbar a {
-    float: left;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
-}
+  .navbar a {
+      float: left;
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 20px;
+      text-decoration: none;
+      }
 
 
-.navbar a.right {
-    float: left;
-}
+  .navbar a.right {
+      float: left;
+       }
 
 
-.navbar a:hover {
-    background-color: #ddd;
-  color: black;
+  .navbar a:hover {
+      background-color: #ddd;
+    color: black;}
+    
+    
+  .h {
+      width: 300px;
+      border: 10px solid #333;
+      padding: 25px;
+      margin: 25px;
+    }
