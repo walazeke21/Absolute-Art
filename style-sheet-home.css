@@ -39,14 +39,6 @@
       background-color: #ddd;
       color: black;}
     
-    
-  .h {
-      width: 30%;
-      border: 10px solid #333;
-      padding: 25px;
-      margin: 25px;
-      
-    }
 
 
   h3 {
@@ -63,10 +55,21 @@
     font-size: 20px;}
     
     
-    .pic1 {
-      width: 40%; 
-      float:right;
-      margin-top: 40px; 
-      
+    
+  .bordered {
+    float: left;
+    width: 30%;
+      border: 10px solid #333;
+      padding: 25px;
+      margin-top: 55px;
+      margin-left: 200px;
+  }
+  
+    .pallet{
+      float: left;
+      width: 10%; 
+       padding-left: 300px; 
+      padding-top: 100px;
+     
 }
   
