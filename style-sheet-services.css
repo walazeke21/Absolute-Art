@@ -1,5 +1,5 @@
 body { font-family: 'Handlee', cursive;
-      }
+}
 
 
 
@@ -55,6 +55,7 @@ body { font-family: 'Handlee', cursive;
       float:left;
       margin-top: 70px;
       margin-left: 350px;
+     width: 30%;
 
 }
 
@@ -63,6 +64,7 @@ body { font-family: 'Handlee', cursive;
       float:right;
       margin-top: 70px;
       margin-right: 350px;
+     width: 30%;
 }
 
 .money1, .money2 { font-family: 'Poiret One', cursive;
@@ -91,6 +93,7 @@ img {vertical-align: middle;}
   max-width: 1000px;
   position: relative;
   margin: auto;
+  top: 25px;
 }
 
 /* Next & previous buttons */
